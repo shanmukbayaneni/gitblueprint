@@ -14,6 +14,15 @@ public class Inheritance
     {
         System.out.println("hello");
     }
+    public void dothat()
+    {
+        System.out.println("dothat");
+    }
+    public void dotha()
+    {
+        System.out.println("dotha");
+    }
+
 @AfterMethod
     public void afterrun()
     {
