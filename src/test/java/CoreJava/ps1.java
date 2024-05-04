@@ -14,7 +14,7 @@ public class ps1 extends Inheritance
         System.out.println(p.decrement());
         System.out.println(p.increment());
 
-        System.out.println(p.multi());
+        //System.out.println(p.multi());
         System.out.println(p.multithree());
     }
 }

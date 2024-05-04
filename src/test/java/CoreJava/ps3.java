@@ -9,10 +9,10 @@ public class ps3
         this.a=a2;
     }
 
-    public int multi()
+    public void multi()
     {
         a=a*2;
-        return a;
+        System.out.println(a);
     }
 
     public int multithree()
