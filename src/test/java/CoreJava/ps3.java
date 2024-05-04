@@ -15,6 +15,18 @@ public class ps3
         return a;
     }
 
+    public int add()
+    {
+        a=a+2;
+        return a;
+    }
+
+    public int sub()
+    {
+        a=a-2;
+        return a;
+    }
+
     public int multithree()
     {
         a=a*3;
